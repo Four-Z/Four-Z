@@ -29,5 +29,7 @@
 | [![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=00ADD8&logo=go&logoColor=FFFFFF)](https://golang.org/) | [![temp](https://img.shields.io/static/v1?label=&message=temp&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](__link__here__) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
+### Github Stats 📊
+  <img height=154 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Four-Z&layout=compact&hide_border=true&bg_color=000000&title_color=3ddb83&text_color=FFFFFF"/>
 
 
