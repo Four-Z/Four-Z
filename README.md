@@ -23,10 +23,10 @@
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| [![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&color=FF2D20&logo=laravel&logoColor=FFFFFF)](https://laravel.com/) | [![temp](https://img.shields.io/static/v1?label=&message=temp&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](__link__here__) |
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=ffca00&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![temp](https://img.shields.io/static/v1?label=&message=temp&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](__link__here__) |
-| [![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=FFFFFF)](https://www.java.com/) | [![temp](https://img.shields.io/static/v1?label=&message=temp&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](__link__here__) |
-| [![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=00ADD8&logo=go&logoColor=FFFFFF)](https://golang.org/) | [![temp](https://img.shields.io/static/v1?label=&message=temp&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](__link__here__) |
+| [![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&color=FF2D20&logo=laravel&logoColor=FFFFFF)](https://laravel.com/) | [![school-web](https://img.shields.io/static/v1?label=&message=school-web&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](http://sitmenarafitrah.sch.id/) |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=ffca00&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![lab-tasks](https://img.shields.io/static/v1?label=&message=lab-tasks&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Four-Z/Tugas-Pemrograman-Python) [![barcode-generator-gui](https://img.shields.io/static/v1?label=&message=barcode-generator-gui&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Four-Z/Barcode-Generator-Using-Turtle-Python) [![pempek-chatbot](https://img.shields.io/static/v1?label=&message=pempek-chatbot&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Four-Z/pempek-chatbot) | 
+| [![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=FFFFFF)](https://www.java.com/) | [![library-app-gui](https://img.shields.io/static/v1?label=&message=library-app-gui&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Four-Z/Sistem-Perpustakaan-GUI-Java) |
+| [![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=00ADD8&logo=go&logoColor=FFFFFF)](https://golang.org/) | [![kanban-app](https://img.shields.io/static/v1?label=&message=kanban-app&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Four-Z/Kanban-app) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 ### Github Stats 📊
