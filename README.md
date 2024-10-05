@@ -1,16 +1,15 @@
 <p align="center">
-<h2>Hi there, I'm Arya Mulya Kusuma <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h2>
+<h2>Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h2>
 </p>
 
-- 🌱 I’m currently an informatics student of [Sriwijaya University]([https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiWxr3Xm-r7AhVX4TgGHashDIcQFnoECBQQAQ&url=https%3A%2F%2Faadimcollege.edu.np%2F&usg=AOvVaw30i2VOnRfwgfFSs4C4L2-t](https://unsri.ac.id/)).
-- 🧐 I'm interested in web development and back-end development.
+- 🧐 I'm a self-claimed fullstack software developer
 - 📫 You can reach me by my Gmail, Telegram, or LinkedIn.
 
 <a href="mailto:aryakusuma832@gmail.com">
   <img align="left" alt="Hridaya's Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
 </a>
 
-<a href="https://t.me/kusumaarya">
+<a href="https://t.me/aryakusuma832">
   <img align="left" alt="Arya's Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
 </a>
 
